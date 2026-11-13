@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.sh text eol=lf
+*.lua text eol=lf
+*.htm text eol=lf
+*.json text eol=lf
+*.init text eol=lf
+*.config text eol=lf
+fwx-qos-gen text eol=lf
